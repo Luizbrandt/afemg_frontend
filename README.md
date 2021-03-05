@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://afemg-clients.web.app/">
-    <img src="./afemg-logo.svg" align="center" width="85px" alt="AFEMG Logo" style="marin-left: auto; margin-right: auto;"/>
+    <img src="./img/afemg-logo.svg" align="center" width="85px" alt="AFEMG Logo" style="marin-left: auto; margin-right: auto;"/>
   </a>
 </p>
 
