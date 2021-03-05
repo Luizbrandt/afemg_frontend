@@ -1,0 +1,30 @@
+{
+    "BACKEND_HOST": "http://localhost",
+    "BACKEND_PORT": 3500,
+    "ALERT_TIMEOUT": 3000,
+    "ERROR": {
+        "TYPES": {
+            "ERROR": "error",
+            "WARNING": "warning",
+            "SUCCESS": "success"
+        },
+        "MESSAGES": {
+            "FORM_IMCOMPLETE": "Preencha o formulário corretamente!",
+            "GET": "Erro na consulta de dados do usuário!",
+            "EXPIRED": "Associação expirada. Entrar em contato com a administração!",
+            "PRINT_FAILED": "Erro na geração da carteirinha!",
+            "CHANGE_PWD": "Erro na requisição de mudança de senha!",
+            "CHANGE_PWD_SUCCESS": "Senha do administrador alterada com sucesso!",
+            "USERS_GET": "Erro no preenchimento dos associados!",
+            "USER_REMOVE": "Erro na exclusão do associado!",
+            "USER_REMOVE_SUCCESS": "Associado removido com sucesso!",
+            "SUBSCRIPTION_SUCCESS": "Data de expiração extendida com sucesso!",
+            "SUBSCRIPTION_FAILED": "Erro na extensão do tempo de associação!",
+            "USER_CREATE_FAILED": "Falha na criação do associado!",
+            "USER_CREATE_SUCCESS": "Associado criado com sucesso!"
+        }
+    },
+    "ROUTES": {
+        "ADMIN": "admin"
+    }
+}
